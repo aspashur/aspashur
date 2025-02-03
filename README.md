@@ -5,13 +5,13 @@
   <img src="https://profile-counter.glitch.me/aspashur/count.svg" alt="Visitor's Count" />
 </div>
 
+<div align="center"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aspashur&show_icons=true&locale=en&layout=compact" alt="aspashur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aspashur&show_icons=true&locale=en" alt="aspashur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aspashur&" alt="aspashur" /></p>
-
-
+</div>
 
 <!--
 **aspashur/aspashur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
