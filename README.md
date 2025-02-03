@@ -25,16 +25,6 @@
 
 
 
-
-<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
-
-
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/aspashur/count.svg" alt="Visitor's Count" />
