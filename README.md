@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 Stats</h2>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aspashur&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aspashur&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<!-- GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspashur/aspashur/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspashur/aspashur/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspashur/aspashur/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
 <img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 
 </br>
