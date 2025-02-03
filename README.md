@@ -1,5 +1,5 @@
-## Hi👋 I am Pashur 
-
+##  
+<h1 align="center">Hi👋 I am Pashur</h1>
 <h3 align="center">geospatial scientist and developer</h3>
 
 <!-- GitHub Snake 
