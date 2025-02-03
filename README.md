@@ -2,7 +2,6 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 Stats</h2>
   
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=aspashur&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
