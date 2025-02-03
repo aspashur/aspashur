@@ -1,5 +1,7 @@
 ## Hi👋 I am Pashur 
 
+<h3 align="center">geospatial scientist and developer</h3>
+
 <!-- GitHub Snake 
 <div align="center">
   <picture>
@@ -52,8 +54,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm aspashut</h1>
-<h3 align="center">geospatial scientist and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspashur&label=Profile%20views&color=0e75b6&style=flat" alt="aspashur" /> </p>
 
