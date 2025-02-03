@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **call detail records**
 
-- 👨‍💻 All of my projects are available at [aspashur.github.io](aspashur.github.io)
+- 👨‍💻 All of my projects are available at [aspashur](aspashur.github.io](https://aspashur.github.io/profile/)
+
 
 - 📝 I regularly write articles on [https://www.notion.so/aspr-blog-18a73168279780c9a689ee26d0a6bd5f?pvs=4](https://www.notion.so/aspr-blog-18a73168279780c9a689ee26d0a6bd5f?pvs=4)
 
