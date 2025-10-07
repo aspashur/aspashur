@@ -1,17 +1,6 @@
 ##  
-<h1 align="center">Hi👋 I am Pashur</h1>
-<h3 align="center">geospatial scientist and developer</h3>
-
-
-GitHub Snake 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspashur/aspashur/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspashur/aspashur/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspashur/aspashur/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
+<h1 align="left">Hi👋 I am Pashur</h1>
+<h3 align="left">geospatial scientist and developer</h3>
 
 
 - 🔭 I’m currently working on ** **
@@ -21,9 +10,6 @@ GitHub Snake
 - 📫 How to reach me **aspashur@gmail.com**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +30,16 @@ GitHub Snake
 <a href="https://www.hackerearth.com/@aspashur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aspashur" height="30" width="40" /></a>
 </p>
 
+
+
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aspashur&label=Profile%20views&color=0e75b6&style=flat" alt="aspashur" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspashur" alt="aspashur" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/aspshur" target="blank"><img src="https://img.shields.io/twitter/follow/aspshur?logo=twitter&style=for-the-badge" alt="aspshur" /></a> </p>
+</div>
+
 <!-- GitHub Stats -->
 <div align="center">
   
@@ -56,8 +52,3 @@ GitHub Snake
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aspashur&label=Profile%20views&color=0e75b6&style=flat" alt="aspashur" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspashur" alt="aspashur" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aspshur" target="blank"><img src="https://img.shields.io/twitter/follow/aspshur?logo=twitter&style=for-the-badge" alt="aspshur" /></a> </p>
