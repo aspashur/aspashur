@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on ** **
 
-- 📫 How to reach me **aspashur@gmail.com**
+- 📫 How to reach me **selaseh@outlook.com**
 
 <br>
 <br>
@@ -38,7 +38,7 @@
 <br>
 
 <!-- GitHub Stats -->
-<div align="center">
+<div align="left">
   
  <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
