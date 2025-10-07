@@ -33,7 +33,7 @@
 
 
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aspashur&label=Profile%20views&color=0e75b6&style=flat" alt="aspashur" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aspashur" alt="aspashur" /></a> </p>
 
@@ -44,7 +44,7 @@
 <div align="center">
   
  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
 
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=aspashur" />
   
