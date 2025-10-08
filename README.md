@@ -1,13 +1,21 @@
 ##  
+<p>
 <h1 align="left">Hi👋 I am Pashur</h1>
 <h3 align="left">geospatial scientist and developer</h3>
+<h4 align="left">design ~ develop ~ manage</h4>
+</p>
+<br>
 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-- 🔭 I’m currently working on ** **
-
-- 👯 I’m looking to collaborate on ** **
-
-- 📫 How to reach me **selaseh@outlook.com**
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Data Visualization.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2023 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][selaseh@outlook.com]
+- 🧗 I try to: <h2>"Keep Moving Forward"</h2>
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
 <br>
@@ -42,9 +50,10 @@
   
  <!-- Most Used Languages -->
  <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=aspashur" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
 
-
+<img src="https://github-readme-stats.aspashur.vercel.app/api/top-langs/?username=aspashur&show_icons=true&hide_border=true&theme=radical" width="37%" alt="aspashur's Top Languages">
   
 
 </div>
