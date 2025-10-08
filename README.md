@@ -40,10 +40,11 @@
 <img  style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
 
 </div>
+
 <br>
 <br>
 <br>
-<div align="left">
+
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -51,7 +52,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 <br>
 - 📬 How to reach me: <a href="https://linkedin.com/in/selaseh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selaseh" height="30" width="40" /></a>
-</div>
+
 <br>
 - ⚡ Fun fact: everything is possible :raised_hands:
 <br>
