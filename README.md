@@ -13,12 +13,10 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://linkedin.com/in/selaseh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selaseh" height="18" width="" /></a>
 - ⚡ Fun fact: everything is possible :raised_hands:
-<br>
- <!-- Most Used Languages -->
- <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=aspashur" />
-</div>
+
 <br>
 <h2>🧗 "Keep Moving Forward"</h2>
+<br>
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <br>
 
