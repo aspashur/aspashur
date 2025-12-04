@@ -18,11 +18,12 @@
 - ⚡ Fun fact: everything is possible :raised_hands:
 <br>
 
+<h2>🧗 "Keep Moving Forward"</h2>
 <br>
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <br>
-<h2>🧗 "Keep Moving Forward"</h2>
+
 <br>
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
