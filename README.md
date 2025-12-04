@@ -4,8 +4,8 @@
 <h3 align="left">geospatial scientist and developer</h3>
 <h4 align="left">design ~ develop ~ manage</h4>
 </p>
-<br>
 
+<div></div>
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -14,10 +14,11 @@
 - 📬 How to reach me: <a href="https://linkedin.com/in/selaseh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selaseh" height="18" width="" /></a>
 - ⚡ Fun fact: everything is possible :raised_hands:
 <br>
-
-<h2>🧗 "Keep Moving Forward"</h2>
+ <!-- Most Used Languages -->
+ <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=aspashur" />
+</div>
 <br>
-
+<h2>🧗 "Keep Moving Forward"</h2>
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <br>
 
@@ -35,7 +36,6 @@
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
@@ -44,14 +44,8 @@
 <br>
 <br>
 <!-- GitHub Stats -->
-<div align="left">
-  
- <!-- Most Used Languages -->
- <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=aspashur" />
+ 
 
-<img  style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspashur&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
-
-</div>
 
 <br>
 <br>
